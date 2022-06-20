@@ -1,0 +1,27 @@
+h1{
+    color:red;
+    font-size:40px;
+    padding-:20px;
+    margin-top:40px;
+    border-bottom:5px dotted red;
+    border-top:5px dotted red;
+    border-radius:10px;
+    letter-spacing:10px;
+    font-weight:800;
+    animation:bg123 5s infinite;
+}
+@keyframes bg123{
+
+
+ from{background-color:black;}
+    to{background-color:red}
+}
+h2{
+    color:navajowhite;
+    font-size:40px;
+    letter-spacing:10px;
+}
+.style1{
+    color:black;
+    font-size:30px;
+}
